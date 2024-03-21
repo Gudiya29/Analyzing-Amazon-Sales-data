@@ -16,3 +16,6 @@ PYTHON
 TOOLS:
 Jupyter Notebook, Tableau , MS Excel
 
+![image](https://github.com/Gudiya29/Analyzing-Amazon-Sales-data/assets/96307919/d618538b-ad20-47fe-99fe-93233804bf78)
+
+
